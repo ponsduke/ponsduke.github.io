@@ -11,5 +11,12 @@ banner:
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
 top: 1
 sidebar: []
+# layout: post
+# title: Welcome to PONS!
+# excerpt_image: "/assets/images/bryanresearch.jpg"
+# categories: markdown
+# tags: [example]
+# top: 2
 ---
-This is the first post on the website. 
+ # Welcome to PONS!
+  
