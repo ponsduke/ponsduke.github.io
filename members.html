@@ -55,6 +55,11 @@ title: Members
       font-size: 1.2em;
       margin-bottom: 2.5px;
     }
+    
+    /* Placeholder column when odd number of columns */
+    .column.placeholder {
+      visibility: hidden; /* Hide the placeholder column */
+    }
   </style>
 </head>
 
@@ -142,6 +147,8 @@ title: Members
       </div>
     </div>
   </div>
+
+  <div class="column placeholder"></div> <!-- This will be hidden if not needed -->
 </div>
 
 </html>
