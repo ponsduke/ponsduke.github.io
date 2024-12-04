@@ -4,36 +4,48 @@ title: Contact Us
 ---
 
 <!DOCTYPE html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact Form</title>
-</head>
-<head>
     <link rel="stylesheet" href="/assets/css/contact.css">
-  </head>
+</head>
 <body>
-    <h3 style="font-size:2em; font-weight: bold"> Contact us </h3>
+    <h3 style="font-size:2em; font-weight: bold"> Contact Us </h3>
+
     <form id="fcf-form-id" class="fcf-form-class" method="post" action="contact-form-process.php">
+        <div class="fcf-form-group">
             <label for="Name" class="fcf-label">Your name</label>
             <div class="fcf-input-group">
                 <input type="text" id="Name" name="Name" class="fcf-form-control" required>
             </div>
+        </div>
+
         <div class="fcf-form-group">
             <label for="Email" class="fcf-label">Your email address</label>
             <div class="fcf-input-group">
                 <input type="email" id="Email" name="Email" class="fcf-form-control" required>
             </div>
+        </div>
+
         <div class="fcf-form-group">
             <label for="Message" class="fcf-label">Your message</label>
             <div class="fcf-input-group">
                 <textarea id="Message" name="Message" class="fcf-form-control" rows="6" maxlength="3000" required></textarea>
             </div>
         </div>
-        <form method="post" action="mailto:pons.duke@gmail.com" >
-            <input type="submit" value="Send Email" /> 
-        </form>
-</body>
-<p style=" font-size:1.5em">
-    If the above section does not work, please feel free to email us at pons.duke@gmail.com. To send an anonymous comment please fill out the following form.
+
+        <div class="fcf-form-group">
+            <input type="submit" value="Send Email" class="fcf-submit-button">
+        </div>
+    </form>
+
+    <p style="font-size:1.5em">
+        If the above section does not work, please feel free to email us at <a href="mailto:pons.duke@gmail.com">pons.duke@gmail.com</a>. To send an anonymous comment, please fill out the following form.
     </p>
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSenODpGhdOqv99In7sFiex6LRYSf1NU9EVoGkGoiG2jJM64ZA/viewform?usp=sf_link"> Anonymous Comments</a>
+
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSenODpGhdOqv99In7sFiex6LRYSf1NU9EVoGkGoiG2jJM64ZA/viewform?usp=sf_link">Anonymous Comments</a>
+
+</body>
 </html>
