@@ -50,9 +50,10 @@ PONs happy hour was a huge success! Thanks for coming out to enjoy the afternoon
     <figcaption>Grill masters</figcaption>
   </figure>
   <figure>
-  <div class="image-row">
     <img src="/assets/images/HappyHour_20250627-3.jpg" alt="Happy Hour 1">
-    <img src="/assets/images/HappyHour_20250627-2.jpg" alt="Happy Hour 2">
-  </div>
-  <figcaption>Pets and babies welcome! 🍻</figcaption>
-</figure>
+    <figcaption>Babies welcome!</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/HappyHour_20250627-2.jpg" alt="Happy Hour 1">
+    <figcaption>And pets, too</figcaption>
+  </figure>
