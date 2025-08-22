@@ -3,7 +3,7 @@ layout: post
 title: PONs Happy Hour
 author: Cameron Morris
 banner:
-  image: "/assets/images/HappyHour_20250627-1.jpg"
+  image: "/assets/images/HappyHour_20250627-4.jpg"
   opacity: 0.618
   background: "#000"
   height: "100vh"
