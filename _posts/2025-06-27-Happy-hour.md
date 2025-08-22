@@ -23,7 +23,7 @@ PONs happy hour was a huge success! Thanks for coming out to enjoy the afternoon
   }
   .post-gallery img {
     width: 100%;
-    height: 300px;
+    height: 350px;
     display: block;
     object-fit: cover;   /* crop to fill */
     object-position: top;  /* 👈 control cropping */
