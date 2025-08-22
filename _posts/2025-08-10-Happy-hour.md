@@ -3,7 +3,7 @@ layout: post
 title: PONs Happy Hour
 author: Cameron Morris
 banner:
-  image: "/assets/images/bryanresearch.jpg"
+  image: "/assets/images/HappyHour_20250627-1.jpg"
   opacity: 0.618
   background: "#000"
   height: "100vh"
@@ -12,9 +12,7 @@ banner:
 top: 1
 sidebar: []
 ---
-# **PONs Happy Hour**
- 
-The first PONs happy hour was a huge success!
+PONs happy hour was a huge success! Thanks for coming out to enjoy the afternoon with drinks and hotdogs!
 
 <style>
   /* You can move this to your site CSS later */
