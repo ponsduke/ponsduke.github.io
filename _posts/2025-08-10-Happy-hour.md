@@ -15,22 +15,17 @@ sidebar: []
 PONs happy hour was a huge success! Thanks for coming out to enjoy the afternoon with drinks, hotdogs, real dogs, and babies!
 
 <style>
-  /* You can move this to your site CSS later */
   .post-gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    grid-template-columns: repeat(2, 1fr); /* 2 columns */
     gap: 12px;
-    align-items: start;
     margin: 1rem 0;
-  }
-  .post-gallery figure {
-    margin: 0;
   }
   .post-gallery img {
     width: 100%;
     height: auto;
     display: block;
-    border-radius: 8px; /* optional */
+    border-radius: 8px; /* optional rounded corners */
   }
   .post-gallery figcaption {
     font-size: 0.9rem;
