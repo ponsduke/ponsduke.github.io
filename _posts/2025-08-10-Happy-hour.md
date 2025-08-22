@@ -12,7 +12,7 @@ banner:
 top: 1
 sidebar: []
 ---
-PONs happy hour was a huge success! Thanks for coming out to enjoy the afternoon with drinks and hotdogs!
+PONs happy hour was a huge success! Thanks for coming out to enjoy the afternoon with drinks, hotdogs, real dogs, and babies!
 
 <style>
   /* You can move this to your site CSS later */
@@ -42,17 +42,17 @@ PONs happy hour was a huge success! Thanks for coming out to enjoy the afternoon
 
 <div class="post-gallery">
   <figure>
-    <img src="/assets/images/HappyHour_20250627-1.jpg" alt="Happy Hour 1">
-    <figcaption>Grill masters</figcaption>
-  </figure>
-  <figure>
     <img src="/assets/images/HappyHour_20250627-4.jpg" alt="Happy Hour 2">
     <figcaption>Great turnout!</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/HappyHour_20250627-1.jpg" alt="Happy Hour 1">
+    <figcaption>Grill masters</figcaption>
   </figure>
   <figure>
   <div class="image-row">
     <img src="/assets/images/HappyHour_20250627-3.jpg" alt="Happy Hour 1">
     <img src="/assets/images/HappyHour_20250627-2.jpg" alt="Happy Hour 2">
   </div>
-  <figcaption>All baby-types welcome! 🍻</figcaption>
+  <figcaption>Pets and babies welcome! 🍻</figcaption>
 </figure>
