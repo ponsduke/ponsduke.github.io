@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Dr. Jae-Hyun Kim is Launching His Lab!
-author: Cameron Morris
+title: "Career Spotlight: Dr. Jae-Hyun Kim is Launching His Lab!"
+author: Celine Cammarata
 banner:
   image: "/assets/images/Duke-Kim_Jae_Hyun.jpg"
   opacity: 0.618
@@ -12,6 +12,8 @@ banner:
 top: 1
 sidebar: []
 ---
+This series spotlights Duke neuroscience postdocs who have successfully transitioned to new career paths, sharing their job search strategies and insights into how their postdoctoral training prepared them for their next role. Each profile offers practical advice and inspiration for postdocs navigating their own career transitions.
+
 Dr. Jae-Hyun Kim will launch his independent research laboratory at Sungkyunkwan University (SKKU) in South Korea in March of 2026. Having begun his postdoctoral fellowship with Dr. Nuo Li at Baylor College of Medicine in March 2021, Jae-Hyun joined the Duke Department of Neurobiology when the Li lab moved to Duke in 2024. Jae-Hyun’s research probes the neural substrates of motor memory, utilizing longitudinal two-photon calcium imaging of frontal cortex in mice sequentially performing multiple perceptual decision-making tasks. 
 
 Reflecting on his postdoctoral time, Jae-Hyun notes that two key individuals had a deep impact on his experience and scientific growth. 
