@@ -3,7 +3,7 @@ layout: post
 title: "Career Spotlight: Mara Cowen Joins Patient Advocacy Group"
 author: Celine Cammarata
 banner:
-  image: "/assets/images/Mara-Cowen.jpg"
+  image: "/assets/images/Mara-Cowen.png"
   opacity: 0.618
   background: "#000"
   height: "100vh"
