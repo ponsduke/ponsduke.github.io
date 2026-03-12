@@ -25,3 +25,5 @@ Additionally, Jae-Hyun credit’s the Li lab’s staff scientist Dr. Jing Lin as
 “Without her expertise and dedication, it would have been nearly impossible to train my mice to perform continual learning across multiple tasks.”
 
 Jae-Hyun scientific achievements attracted the attention of the SKKU’s director of the Center for Neuroscience Imaging Research, garnering him a direct job offer. Congratulations Jae-Hyun, we look forward to seeing more exciting science from the Kim lab in the future!
+
+You can reach out to Jae-Hyun via email: ruminsight@gmail.com
