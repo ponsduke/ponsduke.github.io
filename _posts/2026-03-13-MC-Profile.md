@@ -20,6 +20,6 @@ Mara has worked along-side patient advocacy groups throughout the course of her 
 
 It was this enthusiastic engagement with the rare disease community that ultimately opened the door to Mara’s current role. In addition to following her lead of volunteering and conducting informational interviews, Mara advises postdocs interested in patient advocacy careers to diversify their skills and knowledge, e.g. through attending seminars in other fields. “As a Scientific Director at a patient advocacy group, having a broad, strategic perspective is essential for determining how to allocate limited resources,” Mara points out.
 
-In her new role, Mara is excited to develop skills that complement her postdoctoral training and to build research initiatives that bring together diverse partners – and to work directly with those impacted by disease. She relates, “I am most looking forward to working with patients and families to ensure their perspectives are meaningfully represented in basic and translational science.” Congratulations Dr. Cowen on your new position!
+In her new role, Mara is excited to develop skills that complement her postdoctoral training and to build research initiatives that bring together diverse partners – and to work directly with those impacted by disease. She relates, “I am most looking forward to working with patients and families to ensure their perspectives are meaningfully represented in basic and translational science.” Congratulations Dr. Cowen on your new position! 
 
 You can connect with Mara at mcowen@zttk.org.
