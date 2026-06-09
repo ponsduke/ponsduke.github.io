@@ -2,118 +2,70 @@
 layout: members
 title: Members
 ---
-<h style="font-size:3em; font-weight: bold"> Members </h>
 
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" href="/assets/css/mem.css">
-  <style>
-    .card-deck {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-between;
-    }
+<h1 style="font-size:3em; font-weight: bold">Members</h1>
 
-    .column {
-      flex: 1 1 calc(33% - 20px);
-      margin-bottom: 20px;
-      box-sizing: border-box;
-    }
+<link rel="stylesheet" href="/assets/css/mem.css">
 
-    .card {
-      display: flex;
-      flex-direction: column;
-      height: 100%;
-      border: 1px solid #ccc;
-      border-radius: 10px;
-      overflow: hidden;
-    }
+<style>
+  .card-deck {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
 
-    .container {
-      padding: 10px;
-      display: flex;
-      flex-direction: column;
-      flex-grow: 1;
-    }
+  .column {
+    flex: 1 1 calc(33% - 20px);
+    margin-bottom: 20px;
+    box-sizing: border-box;
+  }
 
-    .card img {
-      width: 100%;
-      height: 200px;
-      object-fit: cover;
-      margin-bottom: 5px;
-    }
+  .card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+  }
 
-    .card h2 {
-      margin: 0;
-      font-size: 1.5em;
-      margin-bottom: 2.5px;
-    }
+  .container {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+  }
 
-    .card p {
-      margin: 5px 0;
-      font-size: 1.2em;
-      margin-bottom: 2.5px;
-    }
-    
-    /* Placeholder column when odd number of columns */
-    .column.placeholder {
-      visibility: hidden; /* Hide the placeholder column */
-    }
-  </style>
-</head>
+  .card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 5px;
+  }
+
+  .card h2 {
+    margin: 0 0 2.5px 0;
+    font-size: 1.5em;
+  }
+
+  .card p {
+    margin: 5px 0 2.5px 0;
+    font-size: 1.2em;
+  }
+
+  .column.placeholder {
+    visibility: hidden;
+  }
+</style>
 
 <div class="card-deck">
-  <div class="column">
-      <div class="card">
-        <img src="/assets/images/Duke-Cammarata_Celine.jpg" alt="Celine">
-        <div class="container">
-          <h2>Celine Cammarata</h2>
-          <p>Co-Chair</p>
-          <p style="font-size:1em">celine.cammarata@duke.edu</p>
-        </div>
-      </div>
-    </div>
-
-  <div class="column">
-    <div class="card">
-      <img src="/assets/images/Duke-Harmon_Thomas.jpg" alt="Thomas">
-      <div class="container">
-        <h2>Thomas Harmon</h2>
-        <p>Co-Chair</p>
-        <p style="font-size:1em">thomas.harmon@duke.edu</p>
-      </div>
-    </div>
-  </div>
-
   <div class="column">
     <div class="card">
       <img src="/assets/images/Duke-Patton_Michael.jpg" alt="Michael">
       <div class="container">
         <h2>Michael Patton</h2>
-        <p>Vice-Chair, Treasurer</p>
+        <p>Co-chair</p>
         <p style="font-size:1em">michael.patton@duke.edu</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-      <div class="card">
-        <img src="/assets/images/Duke-Smyre_Scott.jpg" alt="Scott">
-        <div class="container">
-          <h2>Scott Smyre </h2>
-          <p>Communication Chair</p>
-          <p style="font-size:1em">scott.smyre@duke.edu</p>
-        </div>
-      </div>
-    </div>
-
-  <div class="column">
-    <div class="card">
-      <img src="/assets/images/Duke-Morris_Cameron.jpg" alt="Cameron">
-      <div class="container">
-        <h2>Cameron Morris</h2>
-        <p style="font-size:1em">cameron.morris@duke.edu</p>
       </div>
     </div>
   </div>
@@ -123,6 +75,7 @@ title: Members
       <img src="/assets/images/Duke-Yousefzadeh_Aryana.jpeg" alt="Aryana">
       <div class="container">
         <h2>Aryana Yousefzadeh</h2>
+        <p>Co-chair</p>
         <p style="font-size:1em">aryana.yz@duke.edu</p>
       </div>
     </div>
@@ -130,10 +83,33 @@ title: Members
 
   <div class="column">
     <div class="card">
-      <img src="/assets/images/Duke-Kim_Jae_Hyun.jpg" alt="Jae_Hyun">
+      <img src="" alt="Jenna">
       <div class="container">
-        <h2>Jae-Hyun Kim</h2>
-        <p style="font-size:1em">jae-hyun.kim@duke.edu</p>
+        <h2>Jenna Nagy</h2>
+        <p>Vice Chair</p>
+        <p style="font-size:1em">jenna.nagy@duke.edu</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="" alt="Minji">
+      <div class="container">
+        <h2>Minji Jang</h2>
+        <p>Treasurer</p>
+        <p style="font-size:1em">minji.jang@duke.edu</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="/assets/images/Duke-Morris_Cameron.jpg" alt="Cameron">
+      <div class="container">
+        <h2>Cameron Morris</h2>
+        <p>Communications Chair</p>
+        <p style="font-size:1em">cameron.morris@duke.edu</p>
       </div>
     </div>
   </div>
@@ -147,8 +123,50 @@ title: Members
       </div>
     </div>
   </div>
+  
+  <div class="column">
+    <div class="card">
+      <img src="/assets/images/Duke-Harmon_Thomas.jpg" alt="Thomas">
+      <div class="container">
+        <h2>Thomas Harmon</h2>
+        <p>Former Co-chair</p>
+        <p style="font-size:1em">thomas.harmon@duke.edu</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="/assets/images/Duke-Cammarata_Celine.jpg" alt="Celine">
+      <div class="container">
+        <h2>Celine Cammarata</h2>
+        <p>Former Co-chair</p>
+        <p style="font-size:1em">celine.cammarata@duke.edu</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="/assets/images/Duke-Smyre_Scott.jpg" alt="Scott">
+      <div class="container">
+        <h2>Scott Smyre </h2>
+        <p>Former Communications Chair</p>
+        <p style="font-size:1em">scott.smyre@duke.edu</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="/assets/images/Duke-Kim_Jae_Hyun.jpg" alt="Jae_Hyun">
+      <div class="container">
+        <h2>Jae-Hyun Kim</h2>
+        <p>Former PONs Member</p>
+        <p style="font-size:1em">jae-hyun.kim@duke.edu</p>
+      </div>
+    </div>
+  </div>
 
   <div class="column placeholder"></div> <!-- This will be hidden if not needed -->
 </div>
-
-</html>
