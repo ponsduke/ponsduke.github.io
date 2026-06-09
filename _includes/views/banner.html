@@ -15,6 +15,7 @@
 
 {%- include functions.html func='get_banner' -%}
 {%- assign banner_position = page.banner.position | default: 'center center' -%}
+<!-- DEBUG banner_position: {{ banner_position }} | page.banner.position: {{ page.banner.position }} -->
 
 {%- if has_banner -%}
   {%- if banner_background -%}
