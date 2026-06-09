@@ -11,12 +11,11 @@ title: Members
   .card-deck {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    gap: 20px;
   }
 
   .column {
-    flex: 1 1 calc(33% - 20px);
-    margin-bottom: 20px;
+    flex: 0 0 calc(33.333% - 14px);
     box-sizing: border-box;
   }
 
@@ -53,8 +52,16 @@ title: Members
     font-size: 1.2em;
   }
 
-  .column.placeholder {
-    visibility: hidden;
+  @media screen and (max-width: 900px) {
+    .column {
+      flex: 0 0 calc(50% - 10px);
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .column {
+      flex: 0 0 100%;
+    }
   }
 </style>
 
@@ -150,7 +157,7 @@ title: Members
     <div class="card">
       <img src="/assets/images/Duke-Smyre_Scott.jpg" alt="Scott">
       <div class="container">
-        <h2>Scott Smyre </h2>
+        <h2>Scott Smyre</h2>
         <p>Former Communications Chair</p>
         <p style="font-size:1em">scott.smyre@duke.edu</p>
       </div>
@@ -167,6 +174,4 @@ title: Members
       </div>
     </div>
   </div>
-
-  <div class="column placeholder"></div> <!-- This will be hidden if not needed -->
 </div>
