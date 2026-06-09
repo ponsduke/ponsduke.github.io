@@ -13,6 +13,23 @@ banner:
 top: 1
 sidebar: []
 ---
+
+<style>
+  .banner,
+  .banner::before,
+  .banner::after,
+  .hero,
+  .hero::before,
+  .hero::after {
+    background-position: top center !important;
+  }
+
+  .banner img,
+  .hero img {
+    object-position: top center !important;
+  }
+</style>
+
 For Dr. Hemanth Mohan, postdoctoral training at Duke was the bridge between executing someone else's scientific vision and building his own. Now an Assistant Professor in the Department of Neurobiology and Anatomy at The University of Texas Health Science Center at Houston, Hemanth spent four years — from 2020 to 2024 — working with Dr. Josh Huang, where he demonstrated that distinct glutamatergic cell types play distinct computational roles in behavior, with each cell type supporting specific sensorimotor functions.
 
 Hemanth credits the postdoc with reshaping how he thinks and works as a scientist. "I gained the technical, analytical, and conceptual skills necessary to transition from executing projects designed by others to defining research questions, designing experiments, and making strategic decisions independently," he explains. Broadening his scientific knowledge beyond his graduate training gave Hemanth the perspective to carve out a research direction distinct from his mentors', while an expanding professional network introduced him to new methodologies and ideas. Looking back, what Hemanth valued most was the people: "The people I worked with, both within and beyond my immediate lab, were the most influential part of my postdoc experience, shaping not only how I approach science, but also how I think about collaboration, creativity, and growth as an independent researcher."
