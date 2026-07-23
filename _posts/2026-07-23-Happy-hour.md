@@ -1,9 +1,9 @@
 ---
 layout: post
 title: PONs Happy Hour
-author: Cameron Morris
+author: Minji Jang
 banner:
-  image: "/assets/images/HappyHour_20250627-4.jpg"
+  image: "/assets/images/HappyHour_20260723-2.jpg"
   opacity: 0.618
   background: "#000"
   height: "100vh"
@@ -12,5 +12,45 @@ banner:
 top: 1
 sidebar: []
 ---
-PONs happy hour was a huge success! Thanks for coming out to enjoy the afternoon with drinks, hotdogs, real dogs, and babies!
+PONs thanks all those that were able to come out and join us in hosting our annual happy hour! It was great grilling out while connecting with the Duke neuroscience community. 
 
+<style>
+  .post-gallery {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 columns */
+    gap: 12px;
+    margin: 1rem 0;
+  }
+  .post-gallery img {
+    width: 100%;
+    height: 350px;
+    display: block;
+    object-fit: cover;   /* crop to fill */
+    object-position: top;  /* 👈 control cropping */
+    border-radius: 8px; /* optional rounded corners */
+  }
+  .post-gallery figcaption {
+    font-size: 0.9rem;
+    color: #666;
+    text-align: center;
+    margin-top: 6px;
+  }
+</style>
+
+<div class="post-gallery">
+  <figure>
+    <img src="/assets/images/HappyHour_20260723-2.jpg" alt="Happy Hour 2">
+    <figcaption>Great turnout!</figcaption>
+  </figure>
+  <figure>
+      <img src="/assets/images/HappyHour_20260723-3.jpg" alt="Happy Hour 1">
+    <figcaption>Babies welcome!</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/HappyHour_20260723-1.jpg" alt="Happy Hour 1">
+    <figcaption>Grill masters</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/HappyHour_20260723-4.jpg" alt="Happy Hour 1">
+    <figcaption>...Maybe</figcaption>
+  </figure>
