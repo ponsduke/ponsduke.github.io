@@ -52,5 +52,5 @@ PONs thanks all those that were able to come out and join us in hosting our annu
   </figure>
   <figure>
     <img src="/assets/images/HappyHour_20260723-4.jpg" alt="Happy Hour 1">
-    <figcaption>...Maybe</figcaption>
+    <figcaption>...maybe</figcaption>
   </figure>
