@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PONs Happy Hour
+title: PONs 2026 Happy Hour
 author: Minji Jang
 banner:
   image: "/assets/images/HappyHour_20260723-2.jpg"
