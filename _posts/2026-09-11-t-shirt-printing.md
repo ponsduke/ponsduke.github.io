@@ -18,8 +18,8 @@ sidebar: []
 # tags: [example]
 # top: 2
 ---
-# **Professional Headshots**
-Shout out to Michael Patton from the Bilbo Lab for making headshots for postdocs possible! This event was a great opportunity for postdocs to get a professional-quality headshot!
+# **Making Best t-shirts for PONs**
+A big thank you to all the postdocs who came out for our T-shirt printing event! It was so fun getting together and making our own shirts — a great reminder of how much better everything is when we do it together.
 
 <style>
   .post-gallery {
